@@ -13,5 +13,3 @@
 - 😄 Pronouns: UNKNOWN!
 
 - ⚡ Fun fact: In Norse mythology, Thor’s hammer, Mjölnir, was so powerful that it could create thunderstorms with a single strike! It was also said to be so heavy that only Thor himself could lift it—unless someone else was worthy, like in the Marvel comics where characters like Captain America proved themselves strong enough to wield it!
-
-theme: jekyll-theme-minimal
